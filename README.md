@@ -4,8 +4,6 @@
 
 <br>
 
-<h2>Java projects built while studying Computer Science & Information Technology.</h2>
-
 <p>
 This repository documents practical work across object-oriented programming,
 data structures, algorithms, GUI development, and application design.
@@ -527,6 +525,6 @@ University of KwaZulu-Natal
 
 <br><br>
 
-<sub>© 2026 Thoyani Kati</sub>
+<sub>© 2024 Thoyani Kati</sub>
 
 </div>
